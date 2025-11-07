@@ -29,9 +29,7 @@ Here, I share my learning journey and projects as I grow as a developer.
 ⭐ **Thanks for visiting my profile!**  
 If you like my work, don’t forget to star ⭐ my repositories!---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badalhusen24-sketch&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badalhusen24-sketch&layout=compact&theme=radical)
 
 
 
